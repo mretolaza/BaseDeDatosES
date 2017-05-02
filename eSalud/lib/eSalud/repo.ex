@@ -1,0 +1,3 @@
+defmodule ESalud.Repo do
+  use Ecto.Repo, otp_app: :eSalud
+end
